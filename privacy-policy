@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Privacy Policy – MARK IT</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; max-width: 900px; margin: auto; }
+  h1, h2 { color: #222; }
+  a { color: #0066cc; }
+</style>
+</head>
+<body>
+
+<h1>Privacy Policy for MARK IT</h1>
+<p><strong>Last updated:</strong> [Insert Date]</p>
+
+<p>MARK IT (“we,” “our,” or “us”) provides tools to help users locate and mark underground utilities using augmented reality, camera input, and device location. This Privacy Policy explains how we collect, use, and protect your information.</p>
+
+<h2>1. Information We Collect</h2>
+
+<h3>Camera Access</h3>
+<p>MARK IT uses your device’s camera solely to display augmented-reality overlays and scan the environment for utility detection. We do not store, transmit, or share camera footage. All processing occurs on your device.</p>
+
+<h3>Location Data (While Using the App Only)</h3>
+<p>We access your precise location only while the app is actively in use. This is required to align AR overlays, improve detection accuracy, and record utility positions. We do not collect or track your location in the background.</p>
+
+<h3>Device &amp; Usage Data</h3>
+<p>We may collect non-personal data such as device model, operating system version, and anonymous usage analytics to improve app performance and stability.</p>
+
+<h2>2. How We Use Your Information</h2>
+<p>We use collected data to:</p>
+<ul>
+  <li>Provide core app functionality (camera, AR, and location)</li>
+  <li>Improve accuracy of underground utility detection</li>
+  <li>Enhance user experience and performance</li>
+  <li>Diagnose crashes and technical issues</li>
+</ul>
+<p>We do not use your data for advertising or tracking.</p>
+
+<h2>3. Data Sharing</h2>
+<p>We do not sell or rent your personal information. Limited non-personal data may be shared with service providers such as analytics platforms to help maintain and improve the app.</p>
+
+<h2>4. Data Security</h2>
+<p>We use industry-standard security measures to protect your information, including encrypted communication where applicable. We do not store camera footage or precise location history.</p>
+
+<h2>5. User Rights</h2>
+<p>You may request access to, correction of, or deletion of your data. You may also withdraw permissions (camera or location) at any time through your device settings.</p>
+<p>For privacy-related requests, contact us at: <strong>[your support email]</strong></p>
+
+<h2>6. Children’s Privacy</h2>
+<p>MARK IT is not intended for children under 13, and we do not knowingly collect data from minors.</p>
+
+<h2>7. Changes to This Policy</h2>
+<p>We may update this Privacy Policy periodically. Updates will be posted within the app and on this page.</p>
+
+<h2>8. Contact Us</h2>
+<p>If you have any questions about this Privacy Policy, contact us at:</p>
+<p><strong>[your support email]</strong></p>
+
+</body>
+</html>
