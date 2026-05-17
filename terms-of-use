@@ -1,1 +1,60 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Terms of Use – MARK IT</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; max-width: 900px; margin: auto; }
+  h1, h2 { color: #222; }
+  a { color: #0066cc; }
+</style>
+</head>
+<body>
+
+<h1>Terms of Use for MARK IT</h1>
+<p><strong>Last updated:</strong> [Insert Date]</p>
+
+<h2>1. Acceptance of Terms</h2>
+<p>By downloading or using MARK IT (“the App”), you agree to these Terms of Use. If you do not agree, do not use the App.</p>
+
+<h2>2. Purpose of the App</h2>
+<p>MARK IT provides augmented-reality tools to help users identify and mark underground utilities. The App is intended for professional and field-use scenarios and should not be relied upon as the sole method of utility verification.</p>
+
+<h2>3. User Responsibilities</h2>
+<p>You agree to:</p>
+<ul>
+  <li>Use the App safely and in compliance with local laws</li>
+  <li>Verify utility locations using proper field procedures</li>
+  <li>Ensure your device has the necessary permissions (camera, location)</li>
+  <li>Not misuse, reverse engineer, or modify the App</li>
+</ul>
+
+<h2>4. No Guarantee of Accuracy</h2>
+<p>The App provides utility-location assistance but does not replace certified locating equipment or professional services. Results may be affected by environmental conditions and may be inaccurate or incomplete. You assume all responsibility for field decisions made using the App.</p>
+
+<h2>5. Safety Disclaimer</h2>
+<p>You must follow all safety protocols when working near underground utilities. The App is not a substitute for call-before-you-dig services, regulatory requirements, or professional locating services.</p>
+
+<h2>6. Intellectual Property</h2>
+<p>All content, branding, and technology in MARK IT are owned by the developer and protected by copyright and intellectual property laws.</p>
+
+<h2>7. Privacy</h2>
+<p>Your use of the App is also governed by our Privacy Policy, which explains how data is collected and used.</p>
+
+<h2>8. Limitation of Liability</h2>
+<p>To the fullest extent permitted by law, we are not liable for any damages resulting from inaccurate utility detection, misuse of the App, device malfunction, or data loss. You use the App at your own risk.</p>
+
+<h2>9. Termination</h2>
+<p>We may suspend or terminate access to the App for violations of these Terms.</p>
+
+<h2>10. Changes to Terms</h2>
+<p>We may update these Terms periodically. Continued use of the App after changes means you accept the updated Terms.</p>
+
+<h2>11. Contact</h2>
+<p>For questions about these Terms, contact us at:</p>
+<p><strong>[your support email]</strong></p>
+
+</body>
+</html>
